@@ -17,7 +17,7 @@
 ---
 
 ## ✅ Phase 2: Go deeper & get idiomatic
-- 📘 *The Go Programming Language* (Donovan & Kernighan)
+- 📘 *Learn Go With Tests* [Gitbook](https://quii.gitbook.io/learn-go-with-tests)
 - Add concurrency, interfaces, tests
 - Refactor projects applying:
   - *Clean Code* (naming, functions, comments)
