@@ -41,12 +41,12 @@
 
 ##  Phase 4: Systems thinking & deployment
 - 📗 *Designing Data‑Intensive Applications* (Martin Kleppmann)
-- [*System Design Primer* ](https://github.com/donnemartin/system-design-primer/tree/master)
+- [*System Design Primer* ](https://github.com/donnemartin/system-design-primer/tree/master) - Amazing Resource, could be enough on its own as a foundation.
 - Try:
   - Adding database, caching
   - Dockerizing your app
   - Basic CI/CD with GitHub Actions
-- Learn deployment on Fly.io, Render, Railway
+- Learn deployment on [Fly.io](fly.io), Render, Railway
 
 **Goal:** Move from “my app runs locally” → “it could run in production, with real data & reliability.”
 
