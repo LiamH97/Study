@@ -46,7 +46,7 @@
   - Adding database, caching
   - Dockerizing your app
   - Basic CI/CD with GitHub Actions
-- Learn deployment on [Fly.io](fly.io), Render, Railway
+- Learn deployment on [Fly.io](https://www.fly.io), Render, Railway
 
 **Goal:** Move from “my app runs locally” → “it could run in production, with real data & reliability.”
 
