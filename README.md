@@ -1,4 +1,4 @@
-# 🛣️ Roadmap: From Python Scripting → Proficient Go Developer → Software Engineer
+# Roadmap: From Python Scripting → Proficient Go Developer → Software Engineer
 
 > Learn Go + design + architecture + systems together, not strictly linearly.
 > Use projects as your spine: build → read → refactor → build bigger.
