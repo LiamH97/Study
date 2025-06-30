@@ -5,7 +5,7 @@
 
 ---
 
-## ✅ Phase 1: Learn Go basics
+##  Phase 1: Learn Go basics
 - 📕 [*Head First Go*](https://github.com/baoozuma/Head-First-All-Series-PDF/blob/main/Head%20First%20Go.pdf)
 - Build small CLI tools or scripts
 - Start reading:
@@ -16,7 +16,7 @@
 
 ---
 
-## ✅ Phase 2: Go deeper & get idiomatic
+##  Phase 2: Go deeper & get idiomatic
 - 📘 *Learn Go With Tests* [Gitbook](https://quii.gitbook.io/learn-go-with-tests)
 - Add concurrency, interfaces, tests
 - Refactor projects applying:
@@ -27,7 +27,7 @@
 
 ---
 
-## ✅ Phase 3: Design & architecture thinking
+##  Phase 3: Design & architecture thinking
 - 📙 *Fundamentals of Software Architecture* (Richards & Ford)  
   or *Software Architecture: The Hard Parts*
 - *Design Patterns Explained* (language‑agnostic)
@@ -39,7 +39,7 @@
 
 ---
 
-## ✅ Phase 4: Systems thinking & deployment
+##  Phase 4: Systems thinking & deployment
 - 📗 *Designing Data‑Intensive Applications* (Martin Kleppmann)
 - [*System Design Primer* ](https://github.com/donnemartin/system-design-primer/tree/master)
 - Try:
@@ -52,6 +52,6 @@
 
 ---
 
-## 🧠 Tips:
+##  Tips:
 - Use each project to *practice what you read*
 - Build → read → refactor → build bigger → repeat
