@@ -41,7 +41,7 @@
 
 ## ✅ Phase 4: Systems thinking & deployment
 - 📗 *Designing Data‑Intensive Applications* (Martin Kleppmann)
-- *System Design Primer* (GitHub)
+- [*System Design Primer* ](https://github.com/donnemartin/system-design-primer/tree/master)
 - Try:
   - Adding database, caching
   - Dockerizing your app
