@@ -1,4 +1,3 @@
-
 # 🛣️ Roadmap: From Scripting → Proficient Go Developer → Software Engineer
 
 > Learn Go + design + architecture + systems together, not strictly linearly.
