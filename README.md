@@ -1,4 +1,4 @@
-# 🛣️ Roadmap: From Scripting → Proficient Go Developer → Software Engineer
+# 🛣️ Roadmap: From Python Scripting → Proficient Go Developer → Software Engineer
 
 > Learn Go + design + architecture + systems together, not strictly linearly.
 > Use projects as your spine: build → read → refactor → build bigger.
@@ -6,7 +6,7 @@
 ---
 
 ## ✅ Phase 1: Learn Go basics
-- 📕 *Head First Go*
+- 📕 [*Head First Go*](https://github.com/baoozuma/Head-First-All-Series-PDF/blob/main/Head%20First%20Go.pdf)
 - Build small CLI tools or scripts
 - Start reading:
   - *Clean Code* (first chapters)
