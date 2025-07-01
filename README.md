@@ -29,7 +29,12 @@ A learning path for a new software engineer who knows Python, wants to learn Go,
 ## 🏗️ **Phase 4: Architecture & Systems Thinking**
 - 📙 **Fundamentals of Software Architecture** (Richards & Ford) — big-picture trade-offs, scalability, patterns
 - 📘 **System Design Interview – An Insider’s Guide** (Alex Xu) — practical system design problems & solutions
-- 📝 **System Design Primer (GitHub)** — free, visual, high-level design concepts and examples
+- 📝 - [*System Design Primer* ](https://github.com/donnemartin/system-design-primer/tree/master) - Amazing Resource, could be enough on its own as a foundation.
+- Try:
+  - Adding database, caching
+  - Dockerizing your app
+  - Basic CI/CD with GitHub Actions
+- Learn deployment on [Fly.io](https://www.fly.io), Render, Railway
 
 ---
 
